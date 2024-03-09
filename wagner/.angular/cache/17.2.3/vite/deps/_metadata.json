@@ -1,0 +1,70 @@
+{
+  "hash": "ca686c03",
+  "configHash": "14c95559",
+  "lockfileHash": "cb6e3224",
+  "browserHash": "34cd4c1e",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "98255c2d",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "0cccc10c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "47ab899b",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "4ec1a062",
+      "needsInterop": false
+    },
+    "primeng/api": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-api.mjs",
+      "file": "primeng_api.js",
+      "fileHash": "5535c1b1",
+      "needsInterop": false
+    },
+    "primeng/button": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-button.mjs",
+      "file": "primeng_button.js",
+      "fileHash": "64136407",
+      "needsInterop": false
+    },
+    "primeng/table": {
+      "src": "../../../../../node_modules/primeng/fesm2022/primeng-table.mjs",
+      "file": "primeng_table.js",
+      "fileHash": "d6199d7e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-CSSE7UIT": {
+      "file": "chunk-CSSE7UIT.js"
+    },
+    "chunk-2N4XRXUW": {
+      "file": "chunk-2N4XRXUW.js"
+    },
+    "chunk-H2Z6QIWE": {
+      "file": "chunk-H2Z6QIWE.js"
+    },
+    "chunk-R2BZAKOK": {
+      "file": "chunk-R2BZAKOK.js"
+    },
+    "chunk-4TI43DL5": {
+      "file": "chunk-4TI43DL5.js"
+    },
+    "chunk-N3XTPJSH": {
+      "file": "chunk-N3XTPJSH.js"
+    }
+  }
+}
